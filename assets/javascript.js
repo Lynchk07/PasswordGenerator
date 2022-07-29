@@ -55,6 +55,7 @@ function generatePassword() {
     var numberArr = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
 
     //Created a array variable to use later in the code. This variable will in turn be what is used to create the password. 
+    
     var pwChar = []
     //If statement if the user picks the prompt for upper case character then this grabs an item individually
     if (upperCase === true) {
