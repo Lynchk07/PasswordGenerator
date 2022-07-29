@@ -13,4 +13,4 @@ This website is a password generator. It uses Javascript to create prompt questi
 https://lynchk07.github.io/PasswordGenerator/
 
 # Github 
-git@github.com:Lynchk07/PasswordGenerator.git
+https://github.com/Lynchk07/PasswordGenerator
